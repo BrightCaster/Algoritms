@@ -1,0 +1,33 @@
+C:\Users\mishka\source\repos\GeneticAlgoritm Curse\GeneticAlgoritm Curse\obj\Debug\GeneticAlgoritm Curse.csprojAssemblyReference.cache
+C:\Users\mishka\source\repos\GeneticAlgoritm Curse\GeneticAlgoritm Curse\obj\Debug\GeneticAlgoritm_Curse.View.resources
+C:\Users\mishka\source\repos\GeneticAlgoritm Curse\GeneticAlgoritm Curse\obj\Debug\GeneticAlgoritm_Curse.Properties.Resources.resources
+C:\Users\mishka\source\repos\GeneticAlgoritm Curse\GeneticAlgoritm Curse\obj\Debug\GeneticAlgoritm Curse.csproj.GenerateResource.cache
+C:\Users\mishka\source\repos\GeneticAlgoritm Curse\GeneticAlgoritm Curse\obj\Debug\GeneticAlgoritm Curse.csproj.CoreCompileInputs.cache
+C:\Users\mishka\source\repos\GeneticAlgoritm Curse\GeneticAlgoritm Curse\bin\Debug\GeneticAlgoritm Curse.exe.config
+C:\Users\mishka\source\repos\GeneticAlgoritm Curse\GeneticAlgoritm Curse\bin\Debug\GeneticAlgoritm Curse.exe
+C:\Users\mishka\source\repos\GeneticAlgoritm Curse\GeneticAlgoritm Curse\bin\Debug\GeneticAlgoritm Curse.pdb
+C:\Users\mishka\source\repos\GeneticAlgoritm Curse\GeneticAlgoritm Curse\obj\Debug\GeneticAlgoritm Curse.exe
+C:\Users\mishka\source\repos\GeneticAlgoritm Curse\GeneticAlgoritm Curse\obj\Debug\GeneticAlgoritm Curse.pdb
+C:\Users\mishka\source\repos\GeneticAlgoritm Curse\GeneticAlgoritm Curse\obj\Debug\GeneticAlgoritm_Curse.Delete_bit.resources
+C:\Users\mishka\source\repos\GeneticAlgoritm Curse\GeneticAlgoritm Curse\obj\Debug\GeneticAlgoritm_Curse.Random_singleton.resources
+E:\SemenovAS C# 2019\GeneticAlgoritm Curse\GeneticAlgoritm Curse\bin\Debug\GeneticAlgoritm Curse.exe.config
+E:\SemenovAS C# 2019\GeneticAlgoritm Curse\GeneticAlgoritm Curse\bin\Debug\GeneticAlgoritm Curse.exe
+E:\SemenovAS C# 2019\GeneticAlgoritm Curse\GeneticAlgoritm Curse\bin\Debug\GeneticAlgoritm Curse.pdb
+E:\SemenovAS C# 2019\GeneticAlgoritm Curse\GeneticAlgoritm Curse\obj\Debug\GeneticAlgoritm Curse.csprojAssemblyReference.cache
+E:\SemenovAS C# 2019\GeneticAlgoritm Curse\GeneticAlgoritm Curse\obj\Debug\GeneticAlgoritm_Curse.Random_singleton.resources
+E:\SemenovAS C# 2019\GeneticAlgoritm Curse\GeneticAlgoritm Curse\obj\Debug\GeneticAlgoritm_Curse.Delete_bit.resources
+E:\SemenovAS C# 2019\GeneticAlgoritm Curse\GeneticAlgoritm Curse\obj\Debug\GeneticAlgoritm_Curse.View.resources
+E:\SemenovAS C# 2019\GeneticAlgoritm Curse\GeneticAlgoritm Curse\obj\Debug\GeneticAlgoritm_Curse.Properties.Resources.resources
+E:\SemenovAS C# 2019\GeneticAlgoritm Curse\GeneticAlgoritm Curse\obj\Debug\GeneticAlgoritm Curse.csproj.GenerateResource.cache
+E:\SemenovAS C# 2019\GeneticAlgoritm Curse\GeneticAlgoritm Curse\obj\Debug\GeneticAlgoritm Curse.csproj.CoreCompileInputs.cache
+E:\SemenovAS C# 2019\GeneticAlgoritm Curse\GeneticAlgoritm Curse\obj\Debug\GeneticAlgoritm Curse.exe
+E:\SemenovAS C# 2019\GeneticAlgoritm Curse\GeneticAlgoritm Curse\obj\Debug\GeneticAlgoritm Curse.pdb
+C:\Users\mishka\source\repos\GeneticAlgoritm Curse\GeneticAlgoritm Curse\obj\Debug\GeneticAlgoritm_Curse.Spravka.resources
+C:\Users\mishka\source\repos\GeneticAlgoritm Curse\GeneticAlgoritm Curse\obj\Debug\GeneticAlgoritm_Curse.Grafik.resources
+C:\Users\mishka\source\repos\GeneticAlgoritm Curse\GeneticAlgoritm Curse\obj\Debug\GeneticAlgoritm_Curse.Test.resources
+E:\SemenovAS C# 2019\GeneticAlgoritm Curse\GeneticAlgoritm Curse\bin\Debug\ClassLibrary1.dll
+E:\SemenovAS C# 2019\GeneticAlgoritm Curse\GeneticAlgoritm Curse\bin\Debug\ClassLibrary1.pdb
+E:\SemenovAS C# 2019\GeneticAlgoritm Curse\GeneticAlgoritm Curse\obj\Debug\GeneticAlgoritm_Curse.Test.resources
+E:\SemenovAS C# 2019\GeneticAlgoritm Curse\GeneticAlgoritm Curse\obj\Debug\GeneticAlgoritm_Curse.Grafik.resources
+E:\SemenovAS C# 2019\GeneticAlgoritm Curse\GeneticAlgoritm Curse\obj\Debug\GeneticAlgoritm_Curse.Spravka.resources
+E:\SemenovAS C# 2019\GeneticAlgoritm Curse\GeneticAlgoritm Curse\obj\Debug\GeneticAlgoritm Curse.csproj.CopyComplete

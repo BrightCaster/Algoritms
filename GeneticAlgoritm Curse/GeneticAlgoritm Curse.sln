@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneticAlgoritm Curse", "GeneticAlgoritm Curse\GeneticAlgoritm Curse.csproj", "{3CFE975B-257D-425C-BD89-61388EECC54C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{568C9C13-85E7-41AB-B7FF-8FAB2CC30656}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CFE975B-257D-425C-BD89-61388EECC54C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CFE975B-257D-425C-BD89-61388EECC54C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CFE975B-257D-425C-BD89-61388EECC54C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CFE975B-257D-425C-BD89-61388EECC54C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{568C9C13-85E7-41AB-B7FF-8FAB2CC30656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{568C9C13-85E7-41AB-B7FF-8FAB2CC30656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{568C9C13-85E7-41AB-B7FF-8FAB2CC30656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{568C9C13-85E7-41AB-B7FF-8FAB2CC30656}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CD6653C-C3A8-406E-A23B-6B66A59D60A7}
+	EndGlobalSection
+EndGlobal
