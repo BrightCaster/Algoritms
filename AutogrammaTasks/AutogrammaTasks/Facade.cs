@@ -8,9 +8,11 @@ namespace AutogrammaTasks
 {
     internal class Facade
     {
-        private Task1 task1;
-        private Task2 task2;
-        private Task3 task3;
+        #region private properties
+        private ITask task1;
+        private ITask task2;
+        private ITask task3;
+        #endregion
         public Facade(Task1 task1, Task2 task2, Task3 task3)
         {
             this.task1 = task1;

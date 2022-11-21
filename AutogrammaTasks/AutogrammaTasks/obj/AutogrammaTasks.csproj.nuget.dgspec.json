@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mishka\\Desktop\\TestForJuniorMiddle\\AutogrammaTasks\\AutogrammaTasks\\AutogrammaTasks.csproj": {}
+    "C:\\Users\\mishka\\Documents\\GitHub\\Algoritms\\AutogrammaTasks\\AutogrammaTasks\\AutogrammaTasks.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mishka\\Desktop\\TestForJuniorMiddle\\AutogrammaTasks\\AutogrammaTasks\\AutogrammaTasks.csproj": {
+    "C:\\Users\\mishka\\Documents\\GitHub\\Algoritms\\AutogrammaTasks\\AutogrammaTasks\\AutogrammaTasks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mishka\\Desktop\\TestForJuniorMiddle\\AutogrammaTasks\\AutogrammaTasks\\AutogrammaTasks.csproj",
+        "projectUniqueName": "C:\\Users\\mishka\\Documents\\GitHub\\Algoritms\\AutogrammaTasks\\AutogrammaTasks\\AutogrammaTasks.csproj",
         "projectName": "AutogrammaTasks",
-        "projectPath": "C:\\Users\\mishka\\Desktop\\TestForJuniorMiddle\\AutogrammaTasks\\AutogrammaTasks\\AutogrammaTasks.csproj",
+        "projectPath": "C:\\Users\\mishka\\Documents\\GitHub\\Algoritms\\AutogrammaTasks\\AutogrammaTasks\\AutogrammaTasks.csproj",
         "packagesPath": "C:\\Users\\mishka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mishka\\Desktop\\TestForJuniorMiddle\\AutogrammaTasks\\AutogrammaTasks\\obj\\",
+        "outputPath": "C:\\Users\\mishka\\Documents\\GitHub\\Algoritms\\AutogrammaTasks\\AutogrammaTasks\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

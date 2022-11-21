@@ -14,6 +14,18 @@ namespace AutogrammaTasks
             _taskString3 = taskString3;
         }
 
+        public void Print()
+        {
+            if (_taskString3 != null)
+            {
+                Console.WriteLine($"Ответ на задачу 3: {Calculate(_taskString3)}");
+            }
+            else
+            {
+                Console.WriteLine("Non found resolve");
+            }
+        }
+        #region private methods
         private int Calculate(List<string> expression)
         {
             Stack<string> stack = new();
@@ -61,17 +73,8 @@ namespace AutogrammaTasks
             if (int.TryParse(d,out n)) return true;
             return false;
         }
+        #endregion
 
-        public void Print()
-        {
-            if (_taskString3 != null)
-            {
-                Console.WriteLine(Calculate(_taskString3));
-            }
-            else
-            {
-                Console.WriteLine("Non found resolve");
-            }
-        }
+
     }
 }

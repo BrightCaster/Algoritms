@@ -14,6 +14,14 @@ namespace AutogrammaTasks
         {
             _taskString2 = taskString2;
         }
+        public void Print()
+        {
+            if (_taskString2 != null)
+            {
+                Console.WriteLine($"Ответ на задачу 2: {Calculate(_taskString2)}");
+            }
+        }
+        #region private methods
         private int Calculate(string stroke)
         {
             Regex regex = new(@"[0-9]{1,}");
@@ -29,12 +37,6 @@ namespace AutogrammaTasks
             }
             return sum;
         }
-        public void Print()
-        {
-            if (_taskString2 != null)
-            {
-                Console.WriteLine($"Ответ на задачу 2: {Calculate(_taskString2)}");
-            }
-        }
+        #endregion
     }
 }
