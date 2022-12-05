@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EY77ET8LSrOga8caCVWlrydgwIEHSWV3AgK+V2bnUdNhoqRMlfBcphWkk9bkQvuUrbmm/bx2tegikPOY1lo+EQ==",
+  "dgSpecHash": "maDgma/UTNqrtZheKyWKFofFwyt1Yxf/rpBpNelbuw6Bk8d98MMRKFjujZ1+a1aIvaHMZIwRProH1hPRscedzQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mishka\\Desktop\\TestForJuniorMiddle\\ЮСофт\\SinglePageASPNET\\SinglePageASPNET\\SinglePageASPNET.csproj",
+  "projectFilePath": "C:\\Users\\mishka\\Documents\\GitHub\\Algoritms\\ЮСофт\\SinglePageASPNET\\SinglePageASPNET\\SinglePageASPNET.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mishka\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\mishka\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
