@@ -1,0 +1,64 @@
+﻿@using SinglePageASPNET.Models
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model IEnumerable<ForRowOvers>
+@{
+    int index = 0;
+    int pagesCount = ViewBag.MaxPages;
+    int thisPage = ViewBag.ThisPage+1;
+    int prevLast = pagesCount == thisPage ? ViewBag.PrevLast : ViewBag.MaxCount;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Single Page</title>
+    <meta charset="utf-8" />
+</head>
+<body>
+    <div style="display:flex; flex-direction:row; padding-left:4px">
+
+        <form asp-action="FirstTo" asp-controller="Home">
+            <input type="submit" name="firstTo" value="First Page" />
+            <input type="hidden" name="_maxCount" value="@prevLast" />
+        </form>
+        <form asp-action="BackTo" asp-controller="Home">
+            <input type="submit" name="backTo" value="Back" />
+            <input type="hidden" name="_maxCount" value="@prevLast" />
+            <input type="hidden" name="_thisPage" value="@ViewBag.ThisPage" />
+        </form>
+        <form asp-action="NextTo" asp-controller="Home">
+            <input type="submit" name="nextTo" value="Next" />
+            <input type="hidden" name="_maxCount" value="@prevLast" />
+            <input type="hidden" name="_thisPage" value="@ViewBag.ThisPage" />
+
+        </form>
+        <form asp-action="LastTo" asp-controller="Home">
+            <input type="submit" name="lastTo" value="Last Page"
+            <input type="hidden" name="_maxCount" value="@prevLast" />
+            <input type="hidden" name="_maxCount" value="@ViewBag.MaxCount" />
+        </form>
+        <form asp-action="CountRows" asp-controller="Home" style="padding-left:4px">
+            <input type="number" min="0" name="countRows" value="@prevLast" />
+            <input type="submit" value="Count Rows" />
+            <input type="hidden" name="_thisPage" value="@ViewBag.ThisPage" />
+        </form>
+        <p>Page: @thisPage/@pagesCount</p>
+    </div>
+
+    <div>
+        <table>
+            <tr>
+                <th>Row number</th>
+                <th>Text Number</th>
+            </tr>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.RowNumber</td>
+                    <td>@item.TextNumber</td>
+                </tr>
+            }
+        </table>
+    </div>
+</body>
+</html>
